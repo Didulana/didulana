@@ -29,7 +29,7 @@ My degree program and personal learning are centered around:
 - 🤖 **Machine Learning & Data-driven Systems**
 - 🧩 **Problem Solving & Engineering Thinking**
 
-This combination allows me to approach problems holistically — from low-level hardware considerations to high-level intelligent systems.
+This combination allows me to approach problems holistically, from low-level hardware considerations to high-level intelligent systems.
 
 ---
 
