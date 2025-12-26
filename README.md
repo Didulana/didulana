@@ -28,7 +28,7 @@ I’m a Computer Engineering undergraduate interested in solving real-world prob
 
 ### 📫 Connect
 
-- 📧 [E-Mail](didulanalokugamage@gmail.com)  
+- 📧 didulanalokugamage@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/didulanalokugamage)
 
 ---
