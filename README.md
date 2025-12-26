@@ -26,13 +26,20 @@ I’m a Computer Engineering undergraduate interested in solving real-world prob
 
 ---
 
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+---
+
 ### 📫 Connect
 
 - 📧 didulanalokugamage@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/didulanalokugamage)
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&theme=default" />
-</p>
