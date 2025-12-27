@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm Didulana Lokugamage</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&center=true&vCenter=true&width=650&lines=Computer+Engineering+Undergraduate;University+of+Peradeniya%2C+Sri+Lanka" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&center=true&vCenter=true&width=650&lines=Computer+Engineering+Undergraduate;Software+%7C+Hardware+%7C+AI+%26+ML;University+of+Peradeniya%2C+Sri+Lanka" />
 </p>
 
 <p align="center">
@@ -11,13 +11,16 @@
 
 ---
 
-### 🚀 About
+## 🚀 About Me
 
-I’m a Computer Engineering undergraduate interested in solving real-world problems through **technology, systems thinking, and engineering design**, with academic exposure to both **software and hardware domains**.
+I’m a **Computer Engineering undergraduate** passionate about solving real-world problems through  
+**technology, systems thinking, and engineering design**.
+
+I work across both **software and hardware domains**, with growing interests in **Artificial Intelligence, Machine Learning, and efficient system-level programming**.
 
 ---
 
-### 🧠 Academic Focus
+## 🧠 Academic Focus
 
 - 💻 Software Engineering & Programming  
 - ⚙️ Computer Hardware & Digital Systems  
@@ -26,20 +29,23 @@ I’m a Computer Engineering undergraduate interested in solving real-world prob
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,nodejs,git,github,linux,html,css" />
 </p>
 
 ---
 
-### 📫 Connect
+## 📈 Contribution Graph
 
-- 📧 didulanalokugamage@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/didulanalokugamage)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Didulana&theme=tokyo-night" />
+</p>
 
+---
 
+## 📫 Connect with Me
+
+- 📧 **Email:** didulanalokugamage@gmail.com  
+- 💼 **LinkedIn:** https://linkedin.com/in/didulanalokugamage  
